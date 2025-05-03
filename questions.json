@@ -1,0 +1,516 @@
+{
+    "heading": "Assessment",
+    "topics": [
+      {
+        "heading": "Multiplication using equal grouping",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "Which of the models shows 4 groups of 3?",
+            "options": [
+              { "image": "./assests/images/option/1.png" },
+              { "image": "./assests/images/option/2.png"  }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 2,
+            "question": "Use array multiplication to fill in the blanks.<br><img width='38%' src='./assests/images/question/1.png'>",
+            "inputBox": [
+              { "operand": "" },
+              { "operand": "×" },
+              { "operand": "" },
+              { "operand": "=" },
+              { "operand": "" }
+            ],
+            "answer": ["4","5","20"]
+          },
+          {
+            "questionNo": 3,
+            "question": "Choose the multiplication statement that the model describes?<br><img width='55%' src='./assests/images/question/2.png'>",
+            "options": [
+              { "text": "5 x 9 = 45" },
+              { "text": "5 x 8 = 40" },
+              { "text": "8 x 5 = 40" },
+              { "text": "8 x 6 = 48" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 4,
+            "question": "If we remove one cookie from each group.<br><img width='55%' src='./assests/images/question/3.png'><br> Which of the following expressions will represent the resulting model?",
+            "options": [
+              { "text": "5 + 5 + 5" },
+              { "text": "3 + 3 + 3 + 3 + 3" },
+              { "text": "4 + 4 + 4" },
+              { "text": "5 + 5" }
+            ],
+            "answer": 2
+          }
+        ]
+        
+        
+      },
+      {
+        "heading": "Multiplication tables and facts",
+        "questions": [
+          {
+            "questionNo": 5,
+            "question": "Which multiplication sentence is correct?",
+            "options": [
+              { "text": "9 × 5 = 40" },
+              { "text": "15 × 2 = 20" },
+              { "text": "12 × 4 = 48" },
+              { "text": "8 × 7 = 54" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 6,
+            "question": "Which fact is incorrect?",
+            "options": [
+              { "text": "14 × 4 = 56" },
+              { "text": "15 × 5 = 70" },
+              { "text": "13 × 3 = 39" },
+              { "text": "12 × 6 = 72" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 7,
+            "question": "On a pirate ship's sail, two multiplication facts were stitched in gold thread. Which two number sentences give the same product?",
+            "options": [
+              { "text": "7 × 8 and 9 × 6" },
+              { "text": "6 × 12 and 9 × 8" },
+              { "text": "5 × 11 and 7 × 7" },
+              { "text": "13 × 4 and 10 × 6" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 8,
+            "question": "Which of these multiplication facts is always true?",
+            "options": [
+              { "text": "0 × 7,831 = 0" },
+              { "text": "1 × 4,209 = 4,209" },
+              { "text": "100 × 25 = 2,500" },
+              { "text": "All of the above" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 9,
+            "question": "Which of these is equal to 100 × 34?",
+            "options": [
+              { "text": "3,400" },
+              { "text": "340" },
+              { "text": "34,000" },
+              { "text": "30,400" }
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "heading": "Area Model",
+        "questions": [
+          {
+            "question": "Mia is planting flowers in rows to help decorate her garden. Each row has the same number of flowers. Use the model to find 5 × 33 .",
+            "inputBox": {
+              "row1": [
+                { "operand": "30", "operator": "" },
+                { "operand": "3", "operator": "" }
+              ],
+              "row2": [
+                { "operand": "5", "operator": "" },
+                
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ],
+              "row4": [
+                { "operand": "5 × 33 = ", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["150", "15", "165"]
+          },
+          {
+            "question": "Use the model to find 26 × 14.",
+            "inputBox": {
+              "row1": [
+                { "operand": "20", "operator": "" },
+                { "operand": "3", "operator": "" }
+              ],
+              "row2": [
+                { "operand": "20", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ],
+              "row3": [
+                { "operand": "6", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ],
+              "row4": [
+                { "operand": "26 × 23 = ", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["400", "60", "120", "18", "598"]
+          },
+          {
+            "question": "Find the area of each smaller rectangle for 223 × 34. ",
+            "inputBox": {
+              "row1": [
+                { "operand": "200", "operator": "" },
+                { "operand": "20", "operator": "" },
+                { "operand": "3", "operator": "" }
+              ],
+              "row2": [
+                { "operand": "30", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ],
+              "row3": [
+                { "operand": "4", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["6000", "600", "90", "800", "80","12"]
+          },
+          {
+            "question": "Use the model to find  623 x 42.",
+            "inputBox": {
+              "row1": [
+                { "operand": "600", "operator": "" },
+                { "operand": "20", "operator": "" },
+                { "operand": "3", "operator": "" }
+              ],
+              "row2": [
+                { "operand": "40", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ],
+              "row3": [
+                { "operand": "2", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ],
+              "row4": [
+                { "operand": "623 × 42 = ", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["24000", "800", "120", "1200", "40","6","26166"]
+          }
+        ]
+      },
+      {
+        "heading": "Multiplication word problems",
+        "questions": [
+          {
+            "questionNo": 14,
+            "question": "Mia bought 8 notebooks. Each notebook costs $5. She also bought a backpack for $25, but it was a gift. What is the total cost of the notebooks?",
+            "options": [
+              { "text": "$65" },
+              { "text": "$40" },
+              { "text": "$45" },
+              { "text": "$50" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 15,
+            "question": "A farmer packed 20 boxes of apples. Each box has 30 apples. He also packed 10 boxes of oranges with 25 each. How many apples did he pack?",
+            "options": [
+              { "text": "500" },
+              { "text": "550" },
+              { "text": "600" },
+              { "text": "700" }
+            ],
+            "answer": 2
+          },
+          {
+            "questionNo": 16,
+            "question": "Lily arranged 10 flower bouquets. Each bouquet had 12 roses. She also bought 5 bunches of daisies for her home. How many roses did she use?",
+            "options": [
+              { "text": "120" },
+              { "text": "100" },
+              { "text": "150" },
+              { "text": "130" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 17,
+            "question": "A farmer planted 14 rows of corn, 10 rows of tomatoes, and 15 rows of peas. Each row of corn had 28 corn plants. How many corn plants did the farmer plant?",
+            "options": [
+              { "text": "392" },
+              { "text": "280" },
+              { "text": "390" },
+              { "text": "420" }
+            ],
+            "answer": 0
+          }
+        ]
+           
+      },
+      {
+        "heading": "Multiplication",
+        "questions": [
+          {
+            "questionNo": 18,
+            "question": " Arrange the numbers in the columns and find the total.<br>(94 x 2)",
+            "inputBox": {
+              "row1": [
+                { "operand": "Hundred", "operator": "" },
+                { "operand": "Tens", "operator": "" },
+                { "operand": "Ones", "operator": "" }
+              ],
+              "row2": [
+                
+                { "operand": "9", "operator": "" },
+                { "operand": "4", "operator": "" }
+              ],
+              "row3": [
+                { "operand": "×", "operator": "" },
+                { "operand": "2", "operator": "" }
+              ],
+              "row4": [
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["1","8","8"]
+          },
+          {
+            "questionNo": 19,
+            "question": "Fill in the missing blank boxes to find the total.",
+            "inputBox": {
+            "row1": [
+              { "operand": "×", "operator": "" },
+              { "operand": "", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "Hundreds", "operator": "" },
+              { "operand": "Tens", "operator": "" },
+              { "operand": "Ones", "operator": "" }
+            ],
+            "row3": [
+              { "operand": "9", "operator": "" },
+              { "operand": "6", "operator": "" }
+            ],
+            "row4": [
+              { "operand": "×", "operator": "" },
+              { "operand": "5", "operator": "" }
+            ],
+            "row5": [
+              { "operand": "", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["3","4","8","0"]
+          },
+          {
+            "questionNo": 20,
+            "question": "Fill in the missing blank boxes to find the total.",
+            "inputBox": {
+              "row1": [
+                
+              ],
+              "row2": [
+                { "operand": "Hundred", "operator": "" },
+                { "operand": "Tens", "operator": "" },
+                { "operand": "Ones", "operator": "" }
+              ],
+              "row3": [
+                
+                { "operand": "1", "operator": "" },
+                { "operand": "2", "operator": "" }
+              ],
+              "row4": [
+                { "operand": "×", "operator": "" },
+                { "operand": "2", "operator": "" },
+                { "operand": "3", "operator": "" }
+              ],
+              "row5": [
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["1","7","6"]
+          },
+          {
+            "questionNo": 21,
+            "question": "Fill in the missing blank boxes to find the total.",
+            "inputBox": {
+            "row1": [
+              { "operand": "×", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "", "operator": "" }
+            ],
+            "row2": [
+              { "operand": "Thousand", "operator": "" },
+              { "operand": "Hundreds", "operator": "" },
+              { "operand": "Tens", "operator": "" },
+              { "operand": "Ones", "operator": "" }
+            ],
+            "row3": [
+              { "operand": "5", "operator": "" },
+              { "operand": "6", "operator": "" },
+              { "operand": "7", "operator": "" }
+            ],
+            "row4": [
+              { "operand": "×", "operator": "" },
+              { "operand": "7", "operator": "" }
+            ],
+            "row5": [
+              { "operand": "", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "", "operator": "" },
+              { "operand": "", "operator": "" }
+            ]
+          },
+          "answer": ["4","4","3","9","6","9"]
+          }
+        ]
+        
+         
+      },
+      {
+        "heading": "Measurement",
+        "questions": [
+          {
+            "questionNo": 22,
+            "question": "A pencil is 25 centimeters long. How many millimeters long is the pencil?",
+            "options": [
+              { "text": "250 millimeters" },
+              { "text": "25 millimeters" },
+              { "text": "2.5 millimeters" },
+              { "text": "2,500 millimeters" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 23,
+            "question": "A swimming pool is 3 meters deep. How many centimeters deep is the swimming pool?",
+            "options": [
+              { "text": "30,000 centimeters" },
+              { "text": "30 centimeters" },
+              { "text": "3,000 centimeters" },
+              { "text": "300 centimeters" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 24,
+            "question": "Which is a better estimate for the length of a hammer?",
+            "options": [
+              { "text": "35 centimetres" },
+              { "text": "35 millimetres" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 25,
+            "question": "James travelled 3 km to the zoo and another 5 km to the museum. What was the total distance he travelled in metres?",
+            "options": [
+              { "text": "800 m" },
+              { "text": "8000 m" },
+              { "text": "3000 m" },
+              { "text": "500 m" }
+            ],
+            "answer": 1
+          }
+        ]
+          
+      },
+      {
+        "heading": "Division",
+        "questions": [
+          {
+            "questionNo": 26,
+            "question": "Fill in the blanks to complete the division statement.<br><img width='43%' src='./assests/images/question/4.png'>",
+            "inputBox": {
+              "row1": [
+                { "operand": "There are", "operator": "" },
+                { "operand": "", "operator": "" },
+                { "operand": "chocolates in each group.", "operator": "" }
+              ],
+              "row2": [
+                
+                { "operand": "So, 36 ÷ 3 =", "operator": "" },
+                { "operand": "", "operator": "" }
+              ]
+            },
+            "answer": ["12","12"]
+          },
+          {
+            "questionNo": 27,
+            "question": "If 9 × 8 = 72, which division fact is correct?",
+            "options": [
+              { "text": "72 ÷ 8 = 7" },
+                { "text": "72 ÷ 8 = 9" },
+                { "text": "72 ÷ 9 = 8" },
+                { "text": "Both B and C" }
+            ],
+            "answer": 3
+          },
+          {
+            "questionNo": 28,
+            "question": "If 7 × 13 = 91, which division fact is correct?",
+            "options": [
+              { "text": "91 ÷ 13 = 6" },
+              { "text": "91 ÷ 7 = 13" },
+              { "text": "91 ÷ 7 = 6" },
+              { "text": "91 ÷ 13 = 6" }
+            ],
+            "answer": 1
+          },
+          {
+            "questionNo": 29,
+            "question": "<div style='display:flex'><div>Divide and fill in the missing blanks.</div><div><img width='70%' src='./assests/images/question/5.png'></div></div>",
+            "options": [
+              { "text": "Quotient = 113" },
+              { "text": "Quotient = 115" },
+              { "text": "Quotient = 123" },
+              { "text": "Quotient = 125" }
+            ],
+            "answer": 0
+          },
+          {
+            "questionNo": 30,
+            "question": "<div style='display:flex'><div>Divide and fill in the missing blanks.</div><div><img width='70%' src='./assests/images/question/6.png'></div></div>",
+            "options": [
+              { "text": "Quotient = 675" },
+              { "text": "Quotient = 657" },
+              { "text": "Quotient = 554" },
+              { "text": "Quotient = 654" }
+            ],
+            "answer": 3
+          }
+          
+        ]
+        
+        
+        
+        
+      }
+    ]
+  }
+  
