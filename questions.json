@@ -136,7 +136,7 @@
             "answer": ["150", "15", "165"]
           },
           {
-            "question": "Use the model to find 26 × 14.",
+            "question": "Use the model to find 26 × 23.",
             "inputBox": {
               "row1": [
                 { "operand": "20", "operator": "" },
@@ -353,7 +353,7 @@
                 { "operand": "", "operator": "" }
               ]
             },
-            "answer": ["1","7","6"]
+            "answer": ["2","7","6"]
           },
           {
             "questionNo": 21,
